@@ -14,8 +14,9 @@
     <link href="https://drive.google.com/uc?id=1ImMfSSp9MY9UHS_h3wWxVN4HBYK5Q2zJ"
           type="application/epub+zip"
           rel="http://opds-spec.org/acquisition"/>
-    <link href="https://drive.google.com/uc?id=1l0BzEC59WOHy4jT1Sh9o-bRwoanS8Vnv"
-          type="image/jpeg"
-          rel="http://opds-spec.org/image"/>
+    <link href="https://Yuri-Oliveira-Ribeiro.github.io/biblioteca-yuri/onomedovento.jpg"
+      type="image/jpeg"
+      rel="http://opds-spec.org/image"/>
+
   </entry>
 </feed>

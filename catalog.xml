@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Biblioteca do Yuri</title>
+  <id>https://yuri-oliveira-ribeiro.github.io/biblioteca-yuri/catalog.xml</id>
+  <updated>2026-01-01T00:00:00Z</updated>
+
+  <entry>
+    <title>O Nome do Vento</title>
+    <id>https://yuri-oliveira-ribeiro.github.io/biblioteca-yuri/onomedovento.epub</id>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Patrick Rothfuss</name></author>
+    <link href="https://yuri-oliveira-ribeiro.github.io/biblioteca-yuri/onomedovento.epub"
+          type="application/epub+zip"
+          rel="http://opds-spec.org/acquisition"/>
+  </entry>
+</feed>
+

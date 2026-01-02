@@ -15,7 +15,7 @@
           type="application/epub+zip"
           rel="http://opds-spec.org/acquisition"/>
     <link href="https://yuri-oliveira-ribeiro.github.io/biblioteca-yuri/onomedovento.jpg"
-          type="image/jpeg"
-          rel="http://opds-spec.org/image"/>
+      type="image/jpeg"
+      rel="http://opds-spec.org/image/thumbnail"/>
   </entry>
 </feed>

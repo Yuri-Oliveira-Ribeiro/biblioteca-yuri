@@ -2,24 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom"
       xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Biblioteca do Yuri</title>
-  <id>https://yuri-oliveira-ribeiro.github.io/biblioteca-yuri/catalog.xml</id>
-  <updated>2026-01-01T00:00:00Z</updated>
+  <id>https://drive.google.com/uc?id=1HvuE742fTP4TQ0cYCQwRVAiuK1_m0ZOn</id>
+  <updated>2026-01-02T00:54:00Z</updated>
 
   <entry>
-  <title>O Nome do Vento</title>
-  <id>https://yuri-oliveira-ribeiro.github.io/biblioteca-yuri/onomedovento.epub</id>
-  <updated>2026-01-01T00:00:00Z</updated>
-  <author><name>Patrick Rothfuss</name></author>
-
-  <!-- Link para baixar o EPUB -->
-  <link href="https://yuri-oliveira-ribeiro.github.io/biblioteca-yuri/onomedovento.epub"
-        type="application/epub+zip"
-        rel="http://opds-spec.org/acquisition"/>
-
-  <!-- Link para a capa -->
-  <link href="https://yuri-oliveira-ribeiro.github.io/biblioteca-yuri/onomedovento.jpg"
-        type="image/jpeg"
-        rel="http://opds-spec.org/image"/>
-</entry>
+    <title>O Nome do Vento</title>
+    <id>https://drive.google.com/uc?id=1ImMfSSp9MY9UHS_h3wWxVN4HBYK5Q2zJ</id>
+    <updated>2026-01-02T00:54:00Z</updated>
+    <author><name>Patrick Rothfuss</name></author>
+    <summary>Primeiro livro da Crônica do Matador do Rei, narrando a jornada de Kvothe.</summary>
+    <link href="https://drive.google.com/uc?id=1ImMfSSp9MY9UHS_h3wWxVN4HBYK5Q2zJ"
+          type="application/epub+zip"
+          rel="http://opds-spec.org/acquisition"/>
+    <link href="https://drive.google.com/uc?id=1l0BzEC59WOHy4jT1Sh9o-bRwoanS8Vnv"
+          type="image/jpeg"
+          rel="http://opds-spec.org/image"/>
+  </entry>
 </feed>
-

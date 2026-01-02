@@ -6,13 +6,20 @@
   <updated>2026-01-01T00:00:00Z</updated>
 
   <entry>
-    <title>O Nome do Vento</title>
-    <id>https://yuri-oliveira-ribeiro.github.io/biblioteca-yuri/onomedovento.epub</id>
-    <updated>2026-01-01T00:00:00Z</updated>
-    <author><name>Patrick Rothfuss</name></author>
-    <link href="https://yuri-oliveira-ribeiro.github.io/biblioteca-yuri/onomedovento.epub"
-          type="application/epub+zip"
-          rel="http://opds-spec.org/acquisition"/>
-  </entry>
+  <title>O Nome do Vento</title>
+  <id>https://yuri-oliveira-ribeiro.github.io/biblioteca-yuri/onomedovento.epub</id>
+  <updated>2026-01-01T00:00:00Z</updated>
+  <author><name>Patrick Rothfuss</name></author>
+
+  <!-- Link para baixar o EPUB -->
+  <link href="https://yuri-oliveira-ribeiro.github.io/biblioteca-yuri/onomedovento.epub"
+        type="application/epub+zip"
+        rel="http://opds-spec.org/acquisition"/>
+
+  <!-- Link para a capa -->
+  <link href="https://yuri-oliveira-ribeiro.github.io/biblioteca-yuri/onomedovento.jpg"
+        type="image/jpeg"
+        rel="http://opds-spec.org/image"/>
+</entry>
 </feed>
 
